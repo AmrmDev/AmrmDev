@@ -21,7 +21,7 @@ Backend Software Engineer with nearly 2 years of experience building mission-cri
 #### 💸 [The Money Savior](https://github.com/AmrmDev/the-money-savior-telegram-bot)
 My main personal project: a serverless, cloud-native expense management system on AWS.
 
-#### 🔁 [paf-pix-gateway](https://github.com/AmrmDev/paf-pix-gateway)
+#### 🔁 [paf-pix-qrcode-generation](https://github.com/AmrmDev/paf-pix-qrcode-generation)
 A PIX payment gateway, inspired by the real-world payment flows I work with daily.
 
 ---
