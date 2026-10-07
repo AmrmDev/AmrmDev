@@ -18,11 +18,8 @@ Backend Software Engineer with nearly 2 years of experience building mission-cri
 
 ### 🚀 Featured Projects
 
-#### 💸 [The Money Savior](https://github.com/AmrmDev/the-money-savior-docs)
+#### 💸 [The Money Savior](https://github.com/AmrmDev/the-money-savior-telegram-bot)
 My main personal project: a serverless, cloud-native expense management system on AWS.
-
-- [`the-money-savior-docs`](https://github.com/AmrmDev/the-money-savior-docs): architecture and project documentation
-- [`the-money-savior-query-expenses-lambda`](https://github.com/AmrmDev/the-money-savior-query-expenses-lambda): AWS Lambda for querying expenses
 
 #### 🔁 [paf-pix-gateway](https://github.com/AmrmDev/paf-pix-gateway)
 A PIX payment gateway, inspired by the real-world payment flows I work with daily.
